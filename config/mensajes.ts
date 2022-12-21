@@ -1,0 +1,1 @@
+export const CONEXION_BD_EXITOSA = 'La conexión a la base de datos se ha establecido correctamente'
